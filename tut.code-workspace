@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bbv web projects/tutorial/js/8. OOP Projects/javascript-oop-course-projects-master/gallery/final/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tut"
+	}
+}
