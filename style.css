@@ -53,12 +53,7 @@ Variables
   --max-width: 1170px;
   --fixed-width: 620px;
 }
-/*
-=============== 
-Global Styles
-===============
-*/
-
+/*Global Styles*/
 *,
 ::after,
 ::before {
@@ -93,6 +88,8 @@ h1 {
   font-size: 3rem;
 }
 h2 {
+  text-align: center;
+  padding: 3px;
   font-size: 2rem;
 }
 h3 {
@@ -132,7 +129,7 @@ p {
 
 /* section */
 .section {
-  padding: 5rem 0;
+  padding: 3rem 0;
   width: 90vw;
   margin: 0 auto;
   max-width: 1170px;
@@ -171,12 +168,7 @@ p {
   box-shadow: var(--dark-shadow);
 }
 
-/*
-=============== 
-Modal
-===============
-*/
-
+/* Modal */
 .modal {
   position: fixed;
   z-index: -1;
